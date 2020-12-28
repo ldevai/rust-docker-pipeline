@@ -5,8 +5,6 @@ authors = ["Leonardo Devai <leonardo@devai.io>"]
 edition = "2018"
 
 [dependencies]
-#tokio = { version = "0.2", features = ["full"] }
-#warp = "0.2"
 chrono = "0.4"
 
 [[bin]]
